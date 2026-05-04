@@ -1,0 +1,14 @@
+C:\CSharp\IntroProgra\Switch\for3\bin\Debug\net10.0\for3.exe
+C:\CSharp\IntroProgra\Switch\for3\bin\Debug\net10.0\for3.deps.json
+C:\CSharp\IntroProgra\Switch\for3\bin\Debug\net10.0\for3.runtimeconfig.json
+C:\CSharp\IntroProgra\Switch\for3\bin\Debug\net10.0\for3.dll
+C:\CSharp\IntroProgra\Switch\for3\bin\Debug\net10.0\for3.pdb
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.AssemblyInfo.cs
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.dll
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\refint\for3.dll
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.pdb
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\for3.genruntimeconfig.cache
+C:\CSharp\IntroProgra\Switch\for3\obj\Debug\net10.0\ref\for3.dll
