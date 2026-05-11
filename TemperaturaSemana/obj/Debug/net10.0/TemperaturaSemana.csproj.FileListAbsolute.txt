@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.exe
+C:\CSharp\IntroProgra\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.deps.json
+C:\CSharp\IntroProgra\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.runtimeconfig.json
+C:\CSharp\IntroProgra\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.dll
+C:\CSharp\IntroProgra\TemperaturaSemana\bin\Debug\net10.0\TemperaturaSemana.pdb
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.AssemblyInfo.cs
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.sourcelink.json
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.dll
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\refint\TemperaturaSemana.dll
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.pdb
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\TemperaturaSemana.genruntimeconfig.cache
+C:\CSharp\IntroProgra\TemperaturaSemana\obj\Debug\net10.0\ref\TemperaturaSemana.dll
