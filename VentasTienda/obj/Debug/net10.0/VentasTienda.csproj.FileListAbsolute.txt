@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\VentasTienda\bin\Debug\net10.0\VentasTienda.exe
+C:\CSharp\IntroProgra\VentasTienda\bin\Debug\net10.0\VentasTienda.deps.json
+C:\CSharp\IntroProgra\VentasTienda\bin\Debug\net10.0\VentasTienda.runtimeconfig.json
+C:\CSharp\IntroProgra\VentasTienda\bin\Debug\net10.0\VentasTienda.dll
+C:\CSharp\IntroProgra\VentasTienda\bin\Debug\net10.0\VentasTienda.pdb
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.AssemblyInfo.cs
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.sourcelink.json
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.dll
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\refint\VentasTienda.dll
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.pdb
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\VentasTienda.genruntimeconfig.cache
+C:\CSharp\IntroProgra\VentasTienda\obj\Debug\net10.0\ref\VentasTienda.dll

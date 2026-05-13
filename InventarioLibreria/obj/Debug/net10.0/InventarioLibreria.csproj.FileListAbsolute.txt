@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.exe
+C:\CSharp\IntroProgra\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.deps.json
+C:\CSharp\IntroProgra\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.runtimeconfig.json
+C:\CSharp\IntroProgra\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.dll
+C:\CSharp\IntroProgra\InventarioLibreria\bin\Debug\net10.0\InventarioLibreria.pdb
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.AssemblyInfo.cs
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.sourcelink.json
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.dll
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\refint\InventarioLibreria.dll
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.pdb
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\InventarioLibreria.genruntimeconfig.cache
+C:\CSharp\IntroProgra\InventarioLibreria\obj\Debug\net10.0\ref\InventarioLibreria.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumaVector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3df457ec429ed06a7749815aa01fc70c7a0c02d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0986da2eedc23b89f1fc7c9bdf5f49c886b499e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumaVector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumaVector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

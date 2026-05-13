@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\PuntajesVideoJuego\bin\Debug\net10.0\PuntajesVideoJuego.exe
+C:\CSharp\IntroProgra\PuntajesVideoJuego\bin\Debug\net10.0\PuntajesVideoJuego.deps.json
+C:\CSharp\IntroProgra\PuntajesVideoJuego\bin\Debug\net10.0\PuntajesVideoJuego.runtimeconfig.json
+C:\CSharp\IntroProgra\PuntajesVideoJuego\bin\Debug\net10.0\PuntajesVideoJuego.dll
+C:\CSharp\IntroProgra\PuntajesVideoJuego\bin\Debug\net10.0\PuntajesVideoJuego.pdb
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.AssemblyInfo.cs
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.sourcelink.json
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.dll
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\refint\PuntajesVideoJuego.dll
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.pdb
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\PuntajesVideoJuego.genruntimeconfig.cache
+C:\CSharp\IntroProgra\PuntajesVideoJuego\obj\Debug\net10.0\ref\PuntajesVideoJuego.dll

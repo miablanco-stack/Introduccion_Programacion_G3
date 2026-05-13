@@ -25,7 +25,7 @@ for (int i = 0; i < vector2.Length; i++)
 {
     try
     {
-        Console.Write($"Valor {i + 1}:");
+        Console.WriteLine($"Valor {i + 1}");
         vector2 [i] = int.Parse(Console.ReadLine());
     }
     catch (FormatException)
@@ -41,11 +41,14 @@ for (int i = 0; i < vector2.Length; i++)
 for (int i = 0; i < VectorSuma.Length; i++)
 {
     VectorSuma[i] = vector1[i] + vector2[i];
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine($"El resultado de la suma del vector 1 y el vector 2 en la posición {i + 1} es: {VectorSuma[i]}");
+
 }
 
 //Mostrar arreglo resultante
-for (int i = 0; i < VectorSuma.Length; i++)
-{
-    Console.ForegroundColor = ConsoleColor.Green;
-    Console.WriteLine($"El resultado de la suma del vector 1 y el vector 2 en la posición {i + 1} es: {VectorSuma[i]}");
-}
+//for (int i = 0; i < VectorSuma.Length; i++)
+//{
+    //Console.ForegroundColor = ConsoleColor.Green;
+    //Console.WriteLine($"El resultado de la suma del vector 1 y el vector 2 en la posición {i + 1} es: {VectorSuma[i]}");
+//}

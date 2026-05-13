@@ -1,7 +1,6 @@
 ﻿/* Crear un arreglo de notas de 15 estudiantes, 
 luego calcula el promedio de las notas y los tres primeros lugares,
- no se puede ingresar notas menores a cero o mayor a 100*/
-
+no se puede ingresar notas menores a cero o mayor a 100*/
 int[] notas = new int[15];
 int suma = 0, contError = 0;
 double promedio = 0;
