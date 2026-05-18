@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.AssemblyInfo.cs
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.sourcelink.json
+C:\CSharp\IntroProgra\Matriz3\bin\Debug\net10.0\Matriz3.exe
+C:\CSharp\IntroProgra\Matriz3\bin\Debug\net10.0\Matriz3.deps.json
+C:\CSharp\IntroProgra\Matriz3\bin\Debug\net10.0\Matriz3.runtimeconfig.json
+C:\CSharp\IntroProgra\Matriz3\bin\Debug\net10.0\Matriz3.dll
+C:\CSharp\IntroProgra\Matriz3\bin\Debug\net10.0\Matriz3.pdb
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.dll
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\refint\Matriz3.dll
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.pdb
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\Matriz3.genruntimeconfig.cache
+C:\CSharp\IntroProgra\Matriz3\obj\Debug\net10.0\ref\Matriz3.dll
