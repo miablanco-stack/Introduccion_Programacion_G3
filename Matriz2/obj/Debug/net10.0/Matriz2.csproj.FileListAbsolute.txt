@@ -1,0 +1,15 @@
+C:\CSharp\IntroProgra\Matriz2\bin\Debug\net10.0\Matriz2.exe
+C:\CSharp\IntroProgra\Matriz2\bin\Debug\net10.0\Matriz2.deps.json
+C:\CSharp\IntroProgra\Matriz2\bin\Debug\net10.0\Matriz2.runtimeconfig.json
+C:\CSharp\IntroProgra\Matriz2\bin\Debug\net10.0\Matriz2.dll
+C:\CSharp\IntroProgra\Matriz2\bin\Debug\net10.0\Matriz2.pdb
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.AssemblyInfoInputs.cache
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.AssemblyInfo.cs
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.csproj.CoreCompileInputs.cache
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.sourcelink.json
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.dll
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\refint\Matriz2.dll
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.pdb
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\Matriz2.genruntimeconfig.cache
+C:\CSharp\IntroProgra\Matriz2\obj\Debug\net10.0\ref\Matriz2.dll
